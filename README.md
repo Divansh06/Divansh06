@@ -14,7 +14,7 @@ I'm a final-year AIML student and an aspiring **Data Analyst**, **Python Develop
 ### 📬 Connect with me:
 <p align="left">
   <a href="mailto:Divansh272@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/divanshu-sharma-b7a4b7251/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/divanshu-sharma-4b96751bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="https://www.instagram.com/itsdivbtw/?next=%2F" target="_blank"><img alt="itsdivbtw" src="https://img.shields.io/badge/itsdivbtw-E4405F?style=for-the-badge" /></a>
   <a href="https://www.hackerrank.com/profile/Divansh_06" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
