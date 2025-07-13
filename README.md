@@ -82,3 +82,7 @@ I'm a final-year AIML student and an aspiring **Data Analyst**, **Python Develop
 <p align="center">
   Thanks for visiting my profile!
 </p>
+
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=Divansh06&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
