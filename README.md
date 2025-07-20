@@ -63,7 +63,7 @@ I'm a final-year AIML student and an aspiring **Data Analyst**, **Python Develop
   <img src="https://github-readme-stats.vercel.app/api?username=Divansh06&show_icons=true&theme=radical&rank_icon=github" alt="Divanshu's GitHub stats" width="48%"/>
 </p>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Divansh06/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divansh06&layout=compact&langs_count=8&theme=dracula" alt="Divanshu's Top Languages"/>
   </a>
 </p>
