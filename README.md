@@ -9,6 +9,17 @@
 
 I'm a final-year AIML student and an aspiring **Data Analyst**, **Python Developer**, and **Machine Learning Engineer**. I'm passionate about leveraging data to build innovative solutions and solve real-world problems. My goal is to transform complex datasets into actionable insights and contribute to impactful projects in a collaborative tech environment.
 
+
+### 🔥 Currently Working On
+
+- 🌿 **Crop Disease Detection** with Image Processing & Deep Learning @ BISAG  
+- 💡 **Data Science Projects** (Python • Scikit-learn • Pandas • Streamlit • NLP • ML)  
+- ⚡ Python, DSA & OOPs focused for coding interviews  
+- 🧠 Aptitude + RDBMS preparation for placement rounds
+
+---
+
+
 ---
 
 ### 📬 Connect with me:
@@ -55,7 +66,19 @@ I'm a final-year AIML student and an aspiring **Data Analyst**, **Python Develop
 </p>
 
 ---
+### 🧠 Skills & Confidence
 
+| Skill Category         |     Tools/Technologies                |  Confidence  |
+|------------------------|---------------------------------------|--------------|
+| Programming Languages  | Python, Java, R                       | 🔥🔥🔥🔥🔥 |
+| Data Science           | Python ,Streamlit, ML                 | 🔥🔥🔥🔥   |
+| AI & Image Processing  | OpenCV, TensorFlow, PIL               | 🔥🔥🔥🔥   |
+| DBMS & SQL             | Joins, Normalization, MySQL, ERD      | 🔥🔥🔥🔥   |
+| Git & Tools            | Git, GitHub, VS Code,                 | 🔥🔥🔥🔥🔥 |
+|Apt & Reasoning         | %,P&L,T&W,DI,Puzzles,Coding,Syllogisms| 🔥🔥🔥🔥   |
+
+
+---
 ### 📊 My GitHub Stats
 <p align="center">
  <p align="center">
