@@ -72,11 +72,14 @@ I'm a final-year AIML student and an aspiring **Data Analyst**, **Python Develop
 
 ### 🚀 Highlighted Projects
 *Check out my pinned repositories for more!*
+## 🚀 Projects
 
-1.  **Crop Disease Detection System:** An end-to-end Content-Based Image Retrieval (CBIR) system using TensorFlow and MobileNetV2 to identify tomato leaf diseases with high accuracy, deployed with Streamlit.
-2.  **COVID-19 Global Dashboard:** An interactive dashboard built with Streamlit and Plotly to visualize global pandemic trends, featuring country-wise filters and dynamic choropleth maps.
-3.  **Airbnb Price Prediction:** A complete data science project involving data cleaning, feature engineering, and model building (RandomForest, XGBoost) to predict Airbnb listing prices.
-4.  **Fake News Detection (NLP):** A project utilizing TF-IDF and Logistic Regression to classify news articles as real or fake, deployed as a web app.
+- 📰 [Fake News Detection](https://github.com/Divansh06/fake-news-detection) — Logistic Regression + TF-IDF to classify news articles as real or fake  
+- 📚 [Library Management System](https://github.com/Divansh06/library-management-system) — Python + MySQL app to manage books, issue/return tracking, and availability updates  
+- 🧮 [Airbnb Price Predictor](https://github.com/Divansh06/airbnb-price-prediction) — End-to-end ML regression model using Scikit-learn + Streamlit app for predicting listing prices
+- ❌ [Tic Tac Toe with AI](https://github.com/Divansh06/tic-tac-toe-ai) — Python-based game with Minimax algorithm for unbeatable AI opponent
+
+
 
 ---
 
