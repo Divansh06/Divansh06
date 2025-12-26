@@ -85,10 +85,17 @@ A real-time **Computer Vision application** designed to recognize hand gestures 
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Activity & Contributions
+
+
+</div>
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=Divansh06&theme=react-dark&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+  <img 
+    src="https://github-activity-graph.vercel.app/graph?username=Divansh06&theme=react-dark&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 
