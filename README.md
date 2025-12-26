@@ -12,10 +12,13 @@ I'm a final-year AIML student and an aspiring **Data Analyst**, **Python Develop
 
 ### 🔥 Currently Working On
 
-- 🌿 **Crop Disease Detection** with Image Processing & Deep Learning @ BISAG  
-- 💡 **Data Science Projects** (Python • Scikit-learn • Pandas • Streamlit • NLP • ML)  
-- ⚡ Python, DSA & OOPs focused for coding interviews  
-- 🧠 Aptitude + RDBMS preparation for placement rounds
+- ✋ **Hand Gesture / Hand Sign Recognition** using OpenCV & MediaPipe (In Progress)
+- 🤖 **Machine Learning & Introductory Deep Learning** for Computer Vision applications
+- 🐍 **Python Projects** with NumPy, Pandas, Scikit-learn & Streamlit (model building + deployment)
+- 🧩 **DSA, OOPs & Problem-Solving** focused on coding interviews
+- 🗄️ **SQL & RDBMS Fundamentals** for placements and real-world applications
+- 🔧 Version Control with **Git & GitHub** (project-based learning)
+
 
 ---
 
