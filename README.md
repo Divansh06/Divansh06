@@ -90,15 +90,27 @@ I enjoy working at the intersection of **data, algorithms, and real-world applic
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Divansh06&theme=radical&border_radius=5" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Divansh06&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="49%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Divansh06&show_icons=true&theme=radical&rank_icon=github&count_private=true"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Divansh06&theme=radical&border_radius=5"
+    width="48%"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divansh06&layout=compact&theme=dracula&hide=html" width="45%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divansh06&layout=compact&langs_count=8&theme=dracula&hide=html,jupyter%20notebook"
+    width="45%"
+    alt="Top Languages"
+  />
 </p>
 
 ---
