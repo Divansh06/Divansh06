@@ -8,40 +8,51 @@
   <h1>
     <a href="https://git.io/typing-svg">
       <img 
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🎓+AI+and+ML+Engineer;🐍+Python+Developer;🤖+ML+%26+CV+Enthusiast;🚀+Learning+by+Building"
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=📊+Data+Analyst;📈+SQL+%26+Power+BI;🐍+Python+Developer;🤖+ML+%7C+NLP+%7C+LLMs;🚀+Learning+by+Building"
         alt="Typing SVG"
       />
     </a>
   </h1>
 
 </div>
+
 ---
 
 ## ✨ About Me
 
-I am a passionate **Artificial Intelligence & Machine Learning** student who enjoys building **real-world Machine Learning and Computer Vision applications**. 
+I am a passionate **Data Analyst & Machine Learning enthusiast** who enjoys building **data-driven applications and real-world ML solutions**.
 
-I believe in **learning by building**, improving projects iteratively, and strengthening fundamentals. My goal is to grow into a **Data / ML Engineer** by working on impactful and meaningful problems.
+I have a strong foundation in **SQL, Power BI, and Python**, and I specialize in transforming raw data into **actionable business insights** through dashboards and analysis.
+
+Alongside this, I am actively exploring **Machine Learning, NLP, and LLM-based applications**, aiming to bridge the gap between **data analytics and intelligent systems**.
 
 ---
 
 ## 🔥 What I’m Currently Working On
 
-- ✋ **Hand Gesture Recognition** using **OpenCV & MediaPipe**
-- 🤖 Exploring **Deep Learning** for vision tasks
-- 🐍 Building **Python-based ML pipelines** (EDA → Modeling → Evaluation)
-- 🧩 Strengthening **DSA, OOPs & Logical Thinking**
-- 🗄️ Practicing **SQL & RDBMS fundamentals**
+- 📊 Building **end-to-end data analysis projects** (SQL → Power BI → Insights)  
+- 🤖 Working on **LLM & NLP-based projects**  
+- ✋ Developing **Computer Vision projects** using OpenCV & MediaPipe  
+- 🧠 Learning **Deep Learning frameworks (TensorFlow & PyTorch)**  
+- 🐍 Performing **EDA & data analysis using Python (Pandas, NumPy)**  
+- 🗄️ Strengthening **SQL (MySQL & MS SQL Server)**  
+- 🚀 Deploying projects using **Streamlit**  
 
 ---
 
 ## 🛠️ Tech Stack & Full Skill Set
 
 ### 💻 Programming Languages
-`Python` • `Java` • `R` • `SQL` • `C++`
+`Python` • `Java` • `R` • `SQL` 
 
-### 🤖 Machine Learning & Computer Vision
-`Scikit-learn` • `OpenCV` • `MediaPipe` • `TensorFlow` • `Keras` • `PyTorch`
+### 📊 Data Analytics & BI
+`SQL (MySQL, MS SQL Server)` • `Power BI` • `Excel`
+
+### 🤖 Machine Learning, NLP & Deep Learning
+`Scikit-learn` • `TensorFlow` • `Keras` • `PyTorch` • `NLP` • `LLMs`
+
+### 👁️ Computer Vision
+`OpenCV` • `MediaPipe`
 
 ### 📊 Data Analysis & Visualization
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Tableau`
@@ -56,21 +67,38 @@ I believe in **learning by building**, improving projects iteratively, and stren
 | Skill Area | Level |
 | :--- | :--- |
 | 🐍 Python Programming | ██████████ 90% |
-| 🤖 Machine Learning | █████████░ 85% |
-| 👁️ Computer Vision | ████████░░ 80% |
 | 📊 Data Analysis | █████████░ 85% |
 | 🗄️ SQL / DBMS | ████████░░ 80% |
+| 📈 Power BI & Visualization | █████████░ 85% |
+| 🤖 Machine Learning | █████████░ 85% |
+| 🧠 NLP / LLMs | ███████░░░ 75% |
+| 👁️ Computer Vision | ████████░░ 80% |
 | 🧩 DSA & Logic | ███████░░░ 75% |
 
 ---
 
 ## 🚀 Flagship Project: Hand Gesture Recognition
 
-A real-time **Computer Vision application** designed to recognize hand gestures from webcam input.
-* **Technology:** Python, OpenCV, MediaPipe.
-* **Core Logic:** Extracts 21 3D hand landmarks to classify gestures in real-time.
-* **Status:** Enhancing with CNN-based classification for higher accuracy.
+A real-time **Computer Vision application** designed to recognize hand gestures from webcam input.  
+* **Technology:** Python, OpenCV, MediaPipe  
+* **Core Logic:** Extracts 21 3D hand landmarks to classify gestures in real-time  
+* **Status:** Enhancing with CNN-based classification for higher accuracy  
 
+---
+
+## 🚀 Featured Data Projects
+
+### 🍕 Pizza Sales Dashboard
+- Built using **SQL + Power BI**
+- Analyzed revenue, orders, and sales trends
+- Identified top/bottom products and seasonal patterns
+- Generated actionable business insights
+
+### 📊 Sales Overview Dashboard
+- Regional performance analysis (YoY Sales, Profit, Quantity)
+- Interactive filters and KPI tracking
+- Identified high-performing regions and trends
+- Supported data-driven decision making
 
 ---
 
@@ -82,11 +110,9 @@ A real-time **Computer Vision application** designed to recognize hand gestures 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divansh06&theme=dark" height="150" />
 </div>
 
-
 ---
 
 ## 📊 Activity & Contributions
-
 
 </div>
 
@@ -97,7 +123,6 @@ A real-time **Computer Vision application** designed to recognize hand gestures 
     alt="GitHub Activity Graph"
   />
 </p>
-
 
 ---
 
