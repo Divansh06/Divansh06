@@ -76,7 +76,7 @@
 ### 🧠 NLP / LLMs
 ![NLP](https://img.shields.io/badge/NLP-00d9ff?style=for-the-badge&logo=python&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-ff6b6b?style=for-the-badge&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 
 ### 📈 Data Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
