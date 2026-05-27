@@ -21,7 +21,7 @@
 
 ```bash
 ┌──(divanshu㉿github)-[~/profile]
-└─$ whoami
+└─$ whoIam
 
   NAME     : Divanshu Sharma
   ROLE     : Data Analyst | ML Engineer | DSA Practitioner
